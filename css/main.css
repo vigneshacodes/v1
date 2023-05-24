@@ -1,4 +1,4 @@
-﻿/*==============================================================================
+/*==============================================================================
 
     
     [Table of CSS contents]
@@ -99,7 +99,7 @@ a:hover,
 a:active {
     text-decoration: none;
     outline: 0;
-	color:#009aba;
+	color:#00bf72;
 }
 
 ul {
@@ -135,8 +135,8 @@ ul {
 
 .default-btn:hover {
     color: #f2f2f2;
-	background:#009aba;
-	border: 2px solid #009aba;
+	background:#00bf72;
+	border: 2px solid #00bf72;
 }
 
 .default-btn::before,
@@ -145,7 +145,7 @@ ul {
     content: "";
     height: 100%;
     width: 90vw;
-    background: #009aba;
+    background: #00bf72;
     opacity: 1;
     left: 0;
     top: 40px;
@@ -160,7 +160,7 @@ ul {
 }
 
 .default-btn::before {
-    background: #009aba;
+    background: #00bf72;
     opacity: 1;
     top: 50px;
     z-index: -1;
@@ -192,7 +192,7 @@ ul {
     display: inline-block;
     font-size: 23px;
     margin-bottom: 70px;
-    color: #009aba;
+    color: #00bf72;
     line-height: 1;
     position: relative;
 }
@@ -496,7 +496,7 @@ p {
     position: absolute;
     height: 0%;
     width: 2px;
-    background-color: #009aba;
+    background-color: #00bf72;
     top: 0;
     right: 0;
 }
@@ -679,7 +679,7 @@ body.noscroll header.fixed {
     height: 40px;
     width: 40px;
     line-height: 40px;
-    background: #009aba;
+    background: #00bf72;
     color: #000;
     right: 15px;
     cursor: pointer;
@@ -732,7 +732,7 @@ body.noscroll header.fixed {
     content: "";
     height: 100%;
     width: 50%;
-    background-color: #009aba;
+    background-color: #00bf72;
     right: 0;
     top: -15px;
     z-index: -2;
@@ -804,7 +804,7 @@ body.noscroll header.fixed {
     width: 30px;
     left: 0;
     top: 15px;
-    background: #009aba;
+    background: #00bf72;
 }
 
 
@@ -834,7 +834,7 @@ body.noscroll header.fixed {
     content: "";
     height: 1px;
     width: 15px;
-    background-color: #009aba;
+    background-color: #00bf72;
     right: -27px;
     top: 13px;
 }
@@ -928,7 +928,7 @@ body.noscroll header.fixed {
     content: "";
     height: 1px;
     width: 0;
-    background-color: #009aba;
+    background-color: #00bf72;
     right: 0;
     top: 0;
     z-index: -1;
@@ -956,7 +956,7 @@ body.noscroll header.fixed {
     font-size: 30px;
     display: inline-block;
     margin-bottom: 30px;
-    color: #009aba;
+    color: #00bf72;
 }
 
 .service-item h4 {
@@ -969,7 +969,7 @@ body.noscroll header.fixed {
     content: "";
     height: 10px;
     width: 0;
-    background: #009aba;
+    background: #00bf72;
     left: 0;
     bottom: 1px;
     z-index: -1;
@@ -1019,7 +1019,7 @@ body.noscroll header.fixed {
 
 .skill-item .skill-percent {
     height: 100%;
-    background: #009aba;
+    background: #00bf72;
 }
 
 
@@ -1046,7 +1046,7 @@ body.noscroll header.fixed {
     height: 15px;
     width: 15px;
     background-color: #111;
-    border: 1px solid #009aba;
+    border: 1px solid #00bf72;
     left: -30px;
     top: calc(50% - 7px);
     border-radius: 50px;
@@ -1061,7 +1061,7 @@ body.noscroll header.fixed {
     content: "";
     height: 30px;
     width: 1px;
-    background-color: #009aba;
+    background-color: #00bf72;
     left: -23px;
     top: 12px;
     transition: .3s;
@@ -1121,7 +1121,7 @@ body.noscroll header.fixed {
 }
 
 .experience-single:hover::after {
-    border-color: #009aba;
+    border-color: #00bf72;
 }
 
 .experience-single .company {
@@ -1168,7 +1168,7 @@ body.noscroll header.fixed {
 
 .experience-single:hover .mute-text::after,
 .experience-single:hover .company::after {
-    border-color: #009aba;
+    border-color: #00bf72;
 }
 
 .experience-single .company-info {
@@ -1278,7 +1278,7 @@ body.noscroll header.fixed {
     border: 0;
     font-family: 'Poppins';
     color: #000;
-    background: #009aba;
+    background: #00bf72;
     line-height: 40px;
     width: 40px;
     height: 40px;
@@ -1439,7 +1439,7 @@ body.noscroll header.fixed {
     display: inline-block;
     line-height: 1;
     margin-bottom: 4px;
-    color: #009aba;
+    color: #00bf72;
     margin-right: 7px;
 }
 
@@ -1457,7 +1457,7 @@ body.noscroll header.fixed {
 
 .blog-title span {
     text-decoration: none;
-    background-image: linear-gradient(#009aba, #009aba);
+    background-image: linear-gradient(#00bf72, #00bf72);
     background-position: 0% 100%;
     background-repeat: no-repeat;
     background-size: 0% 2px;
@@ -1498,7 +1498,7 @@ body.noscroll header.fixed {
 }
 
 .contact-info p span {
-    color: #009aba;
+    color: #00bf72;
     font-size: 16px;
     position: absolute;
     left: 0;
@@ -1528,7 +1528,7 @@ body.noscroll header.fixed {
 }
 
 .input_field:focus {
-    border: 1px solid #009aba;
+    border: 1px solid #00bf72;
 }
 
 textarea.input_field {
@@ -1621,7 +1621,7 @@ textarea.input_field {
 
 .footer-social a:hover,
 .footer-copyright a:hover {
-    color: #009aba;
+    color: #00bf72;
 }
 
 
